@@ -10,7 +10,7 @@
       "contenteditable",
       "jquery",
       "ui",
-      "ecosystem:jquery"
+      "jquery"
     ],
     "homepage": "https://github.com/reloxx13/SCEditor",
     "license": "MIT",
