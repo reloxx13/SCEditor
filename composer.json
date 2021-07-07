@@ -1,0 +1,23 @@
+{
+    "name": "reloxx13/SCEditor",
+    "type": "library",
+    "description": "A lightweight HTML and BBCode WYSIWYG editor.",
+    "keywords": [
+      "jquery-plugin",
+      "WYSIWYG",
+      "BBCode",
+      "editor",
+      "contenteditable",
+      "jquery",
+      "ui",
+      "ecosystem:jquery"
+    ],
+    "homepage": "https://github.com/reloxx13/SCEditor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sam Clarke",
+            "email": "sam@samclarke.com",
+        }
+    ]
+}
